@@ -1,0 +1,3 @@
+[service]
+name = "bakawap-dev"
+start = "python script.py"
